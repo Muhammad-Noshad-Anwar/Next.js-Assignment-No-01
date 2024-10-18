@@ -3,9 +3,12 @@ Created a navigation bar with the help of next.js
 <ul>
   <li>Pages: Create a Next.js project with 5 distinct pages.</li>
 
-<li>Components: Utilize the Next.js component structure:</li>
+<li>Components: Utilize the Next.js component structure:
+<ul>
+  <li>implement layout, error, loading, not-found, and page components.</li>
+</ul>
+</li>
 
-<li>implement layout, error, loading, not-found, and page components.</li>
 
 <li>Component Architecture: Design reusable components and maintain clean, modular code.</li>
 
