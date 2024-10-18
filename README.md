@@ -1,11 +1,16 @@
 # Next.js-Assignment-No-01
 Created a navigation bar with the help of next.js
 <ul>
-  <li>used in different types of pages
-  <ul>
-    <li>use client sidde</li>
-    <li>use client sidde</li>
-  </ul>
-  </li>
+  <li>Pages: Create a Next.js project with 5 distinct pages.</li>
+
+<li>Components: Utilize the Next.js component structure:</li>
+
+<li>implement layout, error, loading, not-found, and page components.</li>
+
+<li>Component Architecture: Design reusable components and maintain clean, modular code.</li>
+
+<li>Routing: Implement routing to navigate between the pages.</li>
+
+<li>Styling: Use Tailwind CSS to style all your pages and components.</li>
 </ul>
 
